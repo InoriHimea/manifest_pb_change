@@ -419,6 +419,7 @@
     <remove-project name="android_external_libnfnetlink"/>
     <remove-project name="android_hardware_ril"/>
     <remove-project name="android_vendor_codeaurora_telephony"/>
+    <remove-project name="android_vendor_qcom_opensource_commonsys"/>
 
 
     <!-- Remove from omni-default.xml (OmniROM Projects) -->
