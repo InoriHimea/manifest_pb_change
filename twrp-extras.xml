@@ -20,7 +20,7 @@
     <project path="external/f2fs-tools" name="android_external_f2fs-tools" remote="PitchBlackRecoveryProject" revision="android-9.0" /> 
     <project path="external/zip" name="android_external_zip" remote="PitchBlackRecoveryProject" revision="lineage-16.0" />
   
-    <project path="TeamWin/.repo/frameworks/base" name="android_frameworks_base" remote="omnirom" revision="android-9.0" clone-depth="1" >
+    <project path="android/frameworks/base" name="android_frameworks_base" remote="omnirom" revision="android-9.0" clone-depth="1" >
         <linkfile src="core/java/android/content" dest="frameworks/base/core/java/android/content" />
         <linkfile src="core/java/android/security" dest="frameworks/base/core/java/android/security" />
     </project> />
