@@ -26,7 +26,7 @@
     <!-- Include TeamWin android_system_update_engine to build a good update_engine_sideload -->
     <project path="system/update_engine" name="android_system_update_engine" remote="TeamWin" revision="android-9.0" />
 	
-    <!-- Common 
-    <project path="device/qcom/common" name="android_device_qcom_common" remote="PitchBlackRecoveryProject" revision="android-9.0" /> -->
+    <!-- Common -->
+    <project path="device/qcom/common" name="android_device_qcom_common" remote="PitchBlackRecoveryProject" revision="android-9.0" />
 
 </manifest>
